@@ -11,3 +11,25 @@ premium userlerin qerar verme imkanlari daha cox olacag
 8-?bu sahede yaratdigim proekt ele hala gelmelidiki artig publish oldugu annan her saniye bagli oldugu membelerden data cekib yeniliye bilsin ve 
 9-?
 10-?bu proektimin esas gelecek hedefi insanlarin bu sahede mariflenmesi ve xayp proektlerden uzag olmasi ve bu sahede mariflenmesi
+11-?
+
+
+
+AUDIENCE
+1-?Bu saytla ilk olarag qazanc meqsedi ile acilacag daha sonra herkese aciq veziyyete getirilecey ve eyer kimlerese bu sayt vasitesi ile komek ede bilecemse turkler demiw "NE MUTLU BANA :)"
+2-?Esasen orta yash tebeqesine aid tomplumun bawa duwe bileceyi bir kutleni celb etmekdi meqsed yeni esas kontingent cavan nesil insanlar olacag cunki saytin esas ana xetti kripto pul ve minningle bagli olacag esas meqsedde ele orta neslin numayendelerinin inkiwafinda yardimci olmagdi
+3-?Userler bir nece  formada saytdan istifade ede bilecekler bitcoin kranlardan pulsuz satoshi(btc,ltc,dogecoin vs nin qepiklerini) yigmaqla,dunyada en guvenli minningle meshqul olan zavodlarin saytlarinnan nece istifade etmeyi oyrenmek qaydasinnan tanish olmaq ,o saytlardan nece qeydiyyatdan kecmek hansi dovrlerde ghs (guc) almagin daha semereli olmagi vs barede tam melumatlandirilacaglar ve daima sayt vasitesi ile gundelik valyuta mubadilesi ile melumatlandirilacaglar elave olarag xayp(muveqqeti) proekler baredede melumat verilecey.
+Sayt publish olduqdan sonra 2 tip user kantinqente sahib olacag free istifadeciler ve premium heleki premium istifadecilerin ustunlukleri haqda elavelerim yoxdu :(
+4-?Bu sayta insanlarin daxil olmasinin esas sebebi ELAVE GELIR  elde etmekdir saytin bawlica meqsedi de budur zaten saytin girishinde hec bir halda ehtiyaciniz olan meblegi ne sayta nedeki saytin teklif etdiyi proeklere inves etmeyi meslehet gormur  kimi bir yazi olacagdir onuda qeyd edimki sayta yerlewdirilecek olan proekler tebiiki yoxlamadan kecmiw proekler olacag
+5-?Userler bir nece sebebden saytdan uzaglawdirila biler heleki o sebebler deqiqlesh dirilmeyib.(PASS)
+
+
+CONTENT
+1-?PASS
+2-?Ilk olarag sayt coxda funksianal olmayacag sebeb;private olmasidi ama esas funksiyalari serverlere bagli olan botlari idare etmek ucun bolme kriptokranlar ucun bolmeler reklam bolmeleri kripto zavodlara aid bolmeler ve kripto pulun ve minningin aciqlama bolmeleri add olan saytlarin videolari (tanitim videolar) vs 
+3-?Hal hazirda Ideyadan bawqa hecne yoxdu ancag yuxarida gosterilen her qeyd etdiklerim olacag
+
+
+COMMUNICATION
+1-?Esasen serverlere ve botlarla bagli olacag sayt daha sonra dunyada var olan minning zavodlarin resmi saytlari elave olunacag ve onlarla bagli olacag esasende kriptosaytlarla bagli olacag
+2-?Esas meqsed merkezleshdirilmish bir sayt yaratma yeni bir sayta girib bir nece nov saheleri birlewdirmekdir ve Saytin canli ve daima yenilanmasi userlerini daima online saxlamaqdir diqqet merkezinde qalmaq.
